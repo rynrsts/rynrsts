@@ -2,9 +2,11 @@
 
 Welcome to my GitHub profile.
 
+
 ### About Me 😄
 
 My name is Ryan Aristosa, but you can call me Ry. As you can figure out, my username was formed by combining my first and last name, just removing the vowels. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
+
 
 ### Knowledge 🔭
 
@@ -21,9 +23,10 @@ I have knowledge with:
 - SQLite
 - MongoDB
 
+
 ### Other Accounts 📫
 
-<p align="center">
+<p>
   <a href="https://web.facebook.com/ryan.aristosa/">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
