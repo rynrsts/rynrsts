@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 My name is Ryan Aristosa, but you can call me Ry. As you can figure out, my username was formed by combining my first and last name, just removing the vowels. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
 
 
-### Languages and Tools 🔭
+### Tech Stack 🔭
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  
@@ -21,6 +21,8 @@ My name is Ryan Aristosa, but you can call me Ry. As you can figure out, my user
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </p>
 
 ### Accounts 📫
