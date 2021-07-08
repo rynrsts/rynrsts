@@ -1,15 +1,14 @@
-### Hello 👋
-
+## Hello 👋
 Welcome to my GitHub profile.
 
+<br/>
 
-### About Me 📙
-
+## About Me 📙
 My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
 
+<br/>
 
-### Tech Stack 👨‍💻
-
+## Tech Stack 👨‍💻
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />  
   <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -25,15 +24,18 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
   <img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
+<br/>
 
-### Accounts 🙋‍♂️
-
+## Accounts 🙋‍♂️
 <p>
   <a href="https://web.facebook.com/rynrsts/">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://github.com/rynrsts">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-aristosa-a5a869216/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
