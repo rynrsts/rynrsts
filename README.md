@@ -32,7 +32,7 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
 ## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
 
 </br>
 
