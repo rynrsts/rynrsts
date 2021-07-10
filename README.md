@@ -1,14 +1,17 @@
-## Hello 👋
+# Hello 👋
+
 Welcome to my GitHub profile.
 
-<br/>
+<br>
 
 ## About Me 📙
+
 My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
 
-<br/>
+<br>
 
 ## Tech Stack 👨‍💻
+
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />  
   <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -24,9 +27,17 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
   <img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-<br/>
+<br>
+
+## Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
+
+</br>
 
 ## Accounts 🙋‍♂️
+
 <p>
   <a href="https://web.facebook.com/rynrsts/">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -38,19 +49,3 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-
-<!--
-**rynrsts/rynrsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
