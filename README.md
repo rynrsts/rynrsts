@@ -4,13 +4,13 @@ Welcome to my GitHub profile.
 
 <br>
 
-## About Me 📙
+# About Me 📙
 
 My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
 
 <br>
 
-## Tech Stack 👨‍💻
+# Tech Stack 👨‍💻
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />  
@@ -29,7 +29,7 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
 
 <br>
 
-## Stats
+# Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
