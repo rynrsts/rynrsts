@@ -4,13 +4,39 @@ Welcome to my GitHub profile.
 
 <br>
 
-# 📙 About Me
+## 📙 About Me
 
-My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, taking Bachelor of Science in Information Technology. Generally, I am a give-and-take person. I wanted to explore and learn from other people, while also contributing to the open source community.
+My name is Ryan Aristosa, but you can call me Ry.
+
+### Education
+
+- College: Incoming 4th Year | Bachelor of Science in Information Technology | STI College Pasay-EDSA | Consistent Honor Student
+- Senior High: Technical Vocational Livelihood (TVL) Track | Information & Communications Technology | Computer Programming – Java & .NET Technology | IT in Mobile App & Web Development (MAWD) | STI College Makati | Graduated With Honor
+
+### Affiliation and Role
+
+- Community Mentor | <a href="https://github.com/SurPathHub">SurPath Hub</a> | open source community for Filipinos
+- Community Member | <a href="https://github.com/EddieHubCommunity">EddieHub</a> | open source community for everyone
+- Attendee/Participant | <a href="https://mlh.io/">Major League Hacking (MLH)</a> | official student hackathon league
+
+It is a very wonderful experience to meet various persons with the same interests and goals as me, as well as to explore and learn with them.
+
+### Motto
+
+- 👍 Work smarter, not harder
+- ✔️💯 Work smarter, **and** harder
+
+### Plans and Goals
+
+- Become a Full Stack Developer
+
+### Additional
+
+Exploring motivates me in various ways. That is why I seek to learn something whenever I have the opportunity. And since I have a great sense of responsibility, I always tend to make a progress everyday, or every other day. However, I make sure to implement work-life balance in order for me to have rest, personal, and leisure time, and to take care of my health.
 
 <br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />  
@@ -29,14 +55,14 @@ My name is Ryan Aristosa, but you can call me Ry. I am a 4th year student, takin
 
 <br>
 
-# 📈 Stats
+## 📈 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
 
 </br>
 
-# 📱 Accounts
+## 📱 Accounts
 
 <p>
   <a href="https://web.facebook.com/rynrsts/">
