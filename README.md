@@ -62,7 +62,7 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts)
 
 <br>
 
