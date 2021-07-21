@@ -64,6 +64,10 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts)
 
+### Note
+
+Some C# files are generated from the IDE I am using.
+
 <br>
 
 ## 📱 Accounts
