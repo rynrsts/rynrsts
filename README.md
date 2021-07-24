@@ -17,22 +17,29 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 - Community Mentor | <a href="https://github.com/SurPathHub">SurPath Hub</a> | open source community for Filipinos
 - Community Member | <a href="https://github.com/EddieHubCommunity">EddieHub</a> | open source community for everyone
-- Attendee/Participant | <a href="https://mlh.io/">Major League Hacking (MLH)</a> | official student hackathon league
 
-It is a very wonderful experience to meet various persons with the same interests and goals as me, as well as to explore and learn with them.
+### Preoccupation
 
-### Motto
+- Participating in the events of <a href="https://mlh.io/">Major League Hacking (MLH)</a>, the official student hackathon league
+- Contributing to open-source communities
+- Working with IT Capstone Project
+- Studying React.js, Python, and Django
+
+<!--It is a very wonderful experience to meet various persons with the same interests and goals as me, as well as to explore and learn with them.-->
+
+<!--### Motto
 
 - 👍 Work smarter, not harder
-- ✔️💯 Work smarter, **and** harder
+- ✔️💯 Work smarter, **and** harder-->
 
 ### Plans and Goals
 
 - Become a Full Stack Developer
+- Become a Freelancer
 
-### Additional
+<!--### Additional
 
-Exploring motivates me in various ways. That is why I seek to learn something whenever I have the opportunity. And since I have a great sense of responsibility, I always tend to make a progress everyday, or every other day. However, I make sure to implement work-life balance in order for me to have rest, personal, and leisure time, and to take care of my health.
+Exploring motivates me in various ways. That is why I seek to learn something whenever I have the opportunity. And since I have a great sense of responsibility, I always tend to make a progress everyday, or every other day. However, I make sure to implement work-life balance in order for me to have rest, personal, and leisure time, and to take care of my health.-->
 
 <br>
 
@@ -53,6 +60,8 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![SAP](https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+![Full Stack](https://img.shields.io/badge/full_stack-wamp-AAAAAA?style=for-the-badge)
 
 <br>
 
