@@ -13,6 +13,11 @@ My name is Ryan Aristosa, but you can call me Ry.
 - College: Incoming 4th Year | Bachelor of Science in Information Technology | STI College Pasay-EDSA | Consistent Honor Student
 - Senior High: Technical Vocational Livelihood (TVL) Track | Information & Communications Technology | Computer Programming – Java & .NET Technology | IT in Mobile App & Web Development (MAWD) | STI College Makati | Graduated With Honor
 
+### Training
+
+- Creative Web Design | Informatics Computer Institute | TESDA – Training for Work Scholarship Program Scholarship Grant
+- Web Development | Informatics Computer Institute | TESDA – Training for Work Scholarship Program Scholarship Grant
+
 ### Affiliation and Role
 
 - Community Mentor | <a href="https://github.com/SurPathHub">SurPath Hub</a> | open source community for Filipinos
