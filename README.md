@@ -51,23 +51,27 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) <br>
-![.NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br>
+![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <br>
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![SAP](https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) <br>
+![SAP](https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
 ![Full Stack](https://img.shields.io/badge/full_stack-wamp-AAAAAA?style=for-the-badge)
 
 <br>
 
 ## 📈 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&layout=compact&theme=react)
 
 ### Note
 
