@@ -28,7 +28,7 @@ My name is Ryan Aristosa, but you can call me Ry.
 - Participating in the events of <a href="https://mlh.io/">Major League Hacking (MLH)</a>, the official student hackathon league
 - Contributing to open-source communities
 - Working with IT Capstone Project
-- Studying React.js, Python, and Django
+- Participating in the #100DaysOfCode challenge
 
 <!--It is a very wonderful experience to meet various persons with the same interests and goals as me, as well as to explore and learn with them.-->
 
