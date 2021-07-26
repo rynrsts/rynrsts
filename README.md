@@ -78,6 +78,8 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&layout=compact&theme=react)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rynrsts&show_owner=rynrsts&repo=Programs&theme=react)](https://github.com/rynrsts/Programs)
+
 ### Note
 
 Some C# files are generated from the IDE I am using.
