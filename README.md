@@ -72,22 +72,30 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ## 📈 Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&theme=react&show_icons=true)
+
+### Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&theme=react)
+### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&layout=compact&theme=react)
 
+- Percentages only show the most used languages, not the level of expertise
+- Some C# files are generated from the IDE I am using
+
+### Extra Pin
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rynrsts&show_owner=rynrsts&repo=Programs&theme=react)](https://github.com/rynrsts/Programs)
-
-### Note
-
-Some C# files are generated from the IDE I am using.
 
 <br>
 
-## 📱 Accounts
+## 📱 Contact
 
 [![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rynrsts)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rynrsts)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-aristosa-a5a869216)
+
+![Email](https://img.shields.io/badge/email-ryanaristosa@outlook.com-AAAAAA?style=for-the-badge) <br>
+[![Website](https://img.shields.io/badge/website-rynrsts-AAAAAA?style=for-the-badge)](https://rynrsts.github.io/)
