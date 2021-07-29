@@ -72,7 +72,7 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&theme=react&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&show_icons=true&theme=react)
 
 ### Streak
 
@@ -80,14 +80,14 @@ Exploring motivates me in various ways. That is why I seek to learn something wh
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&theme=react&layout=compact)
 
 - Percentages only show the most used languages, not the level of expertise
 - Some C# files are generated from the IDE I am using
 
 ### Extra Pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rynrsts&show_owner=rynrsts&repo=Programs&theme=react)](https://github.com/rynrsts/Programs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rynrsts&show_owner=rynrsts&theme=react&repo=Programs)](https://github.com/rynrsts/Programs)
 
 <br>
 
