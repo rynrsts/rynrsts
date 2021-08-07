@@ -20,31 +20,17 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 ### Affiliation and Role
 
-- Community Mentor | <a href="https://github.com/SurPathHub">SurPath Hub</a> | open source community for Filipinos
-- Community Member | <a href="https://github.com/EddieHubCommunity">EddieHub</a> | open source community for everyone
+- Community Mentor | <a href="https://github.com/SurPathHub">SurPath Hub</a> | open source community for Filipino students and aspiring developers
+- Community Member | <a href="https://github.com/EddieHubCommunity">EddieHub</a> | open source community for everyone (global)
 
 ### Preoccupation
 
+- Freelancing
+- Taking Graphic Design and UI/UX course in Coursera
 - Participating in the events of <a href="https://mlh.io/">Major League Hacking (MLH)</a>, the official student hackathon league
 - Contributing to open-source communities
 - Working with IT Capstone Project
 - Participating in the #100DaysOfCode challenge
-
-<!--It is a very wonderful experience to meet various persons with the same interests and goals as me, as well as to explore and learn with them.-->
-
-<!--### Motto
-
-- 👍 Work smarter, not harder
-- ✔️💯 Work smarter, **and** harder-->
-
-### Plans and Goals
-
-- Become a Full Stack Developer
-- Become a Freelancer
-
-<!--### Additional
-
-Exploring motivates me in various ways. That is why I seek to learn something whenever I have the opportunity. And since I have a great sense of responsibility, I always tend to make a progress everyday, or every other day. However, I make sure to implement work-life balance in order for me to have rest, personal, and leisure time, and to take care of my health.-->
 
 <br>
 
