@@ -50,6 +50,7 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 - Percentages only show the most used languages, not the level of expertise
 - Some C# files are generated from the IDE I am using
+- Most of the JavaScript files came from repo the-rising-of-shield-hero
 
 ### Extra Pin
 
