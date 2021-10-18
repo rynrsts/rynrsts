@@ -32,8 +32,6 @@ My name is Ryan Aristosa, but you can call me Ry.
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![SAP](https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-![Full Stack](https://img.shields.io/badge/full_stack-wamp-AAAAAA?style=for-the-badge)
-
 <br>
 
 ## 📈 Stats
