@@ -16,15 +16,19 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E54D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-3D8FC6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFD845?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c_sharp-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7C6DB2?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![.NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-59407F?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/codeigniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -47,8 +51,7 @@ My name is Ryan Aristosa, but you can call me Ry.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&theme=react&layout=compact)
 
 - Percentages only show the most used languages, not the level of expertise
-- Some C# files are generated from the IDE I am using
-- Most of the JavaScript files came from repo the-rising-of-shield-hero
+- Some files were generated from the IDE I am using, making it high in number
 
 ### Extra Pin
 
