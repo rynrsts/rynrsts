@@ -8,7 +8,8 @@ Welcome to my GitHub profile.
 
 My name is Ryan Aristosa, but you can call me Ry.
 
-- A graduate of Bachelor of Science in Information Technology, Magna Cum Laude
+- Graduate of Bachelor of Science in Information Technology, Magna Cum Laude
+- Jr. Software Engineer
 
 <br>
 
