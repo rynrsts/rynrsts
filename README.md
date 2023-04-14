@@ -15,27 +15,24 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 ## 💻 Tech Stack
 
+![Java](https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-E54D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-3D8FC6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c_sharp-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD845?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7C6DB2?style=for-the-badge&logo=kotlin&logoColor=white)
 
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-59407F?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Django](https://img.shields.io/badge/django-003A2B?style=for-the-badge&logo=django&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181616?style=for-the-badge&logo=github&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
