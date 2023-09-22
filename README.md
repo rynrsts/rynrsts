@@ -61,12 +61,6 @@ Other languages:
 
 <br>
 
-### Extra Pin
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rynrsts&show_owner=rynrsts&theme=react&repo=Programs)](https://github.com/rynrsts/Programs)
-
-<br>
-
 ## 📱 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynrsts)
