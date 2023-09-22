@@ -8,48 +8,58 @@ Welcome to my GitHub profile.
 
 My name is Ryan Aristosa, but you can call me Ry.
 
-- Graduate of Bachelor of Science in Information Technology, Magna Cum Laude
-- Jr. Software Engineer
+- Working as Jr. Software Engineer, building end-to-end solutions
+- Microsoft Certified: Azure Developer Associate
+- Graduated Magna Cum Laude in BS in Information Technology
 
 <br>
 
-## 💻 Tech Stack
+## 💻 Tech Skills
 
-![Java](https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+Frontend:
+<br>
 ![HTML5](https://img.shields.io/badge/html5-E54D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-3D8FC6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-59407F?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MatarialUI](https://img.shields.io/badge/materialui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<br>
+Backend:
+<br>
+![Java](https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Restify](https://img.shields.io/badge/restify-323330?style=for-the-badge&logo=restify&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Knex](https://img.shields.io/badge/knex-E16426?style=for-the-badge&logo=knex&logoColor=white)
+<br>
+Database:
+<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-F34F1C?style=for-the-badge&logo=mssql&logoColor=white)
+<br>
+Unit testing:
+<br>
+![JUnit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<br>
+Other technology:
+<br>
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<br>
+Other languages:
+<br>
 ![C#](https://img.shields.io/badge/c_sharp-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD845?style=for-the-badge&logo=python&logoColor=black)
+![PHP](https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7C6DB2?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-59407F?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)
-
 <br>
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynrsts&show_icons=true&theme=react)
-
-### Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rynrsts&theme=react)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynrsts&theme=react&layout=compact)
-
-- Percentages only show the most used languages, not the level of expertise
-- Some files were generated from the IDE I am using, making it high in number
 
 ### Extra Pin
 
@@ -59,8 +69,6 @@ My name is Ryan Aristosa, but you can call me Ry.
 
 ## 📱 Contact
 
-[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rynrsts)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rynrsts)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynrsts)
 
 ![Email](https://img.shields.io/badge/email-ryanaristosa@outlook.com-AAAAAA?style=for-the-badge) <br>
