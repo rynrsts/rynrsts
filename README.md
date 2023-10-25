@@ -15,11 +15,11 @@ My name is Ryan Aristosa, but you can call me Ry.
   <img
     src="https://github.com/rynrsts/rynrsts/assets/84888155/9b9f9eae-d682-4edd-9269-8c4425f7f12f"
     alt="AWS Cloud Quest: Cloud Practitioner"
-    style="height: 200px" />
+    style="height: 120px" />
   <img
     src="https://github.com/rynrsts/rynrsts/assets/84888155/c2454162-2149-4d22-9384-0dbec6af697b"
     alt="Microsoft Certified: Azure Developer Associate"
-    style="height: 200px" />
+    style="height: 120px" />
 </div>
 
 <br>
