@@ -37,6 +37,7 @@ Languages:
 Frontend:
 <br>
 ![ReactJS](https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-59407F?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MatarialUI](https://img.shields.io/badge/materialui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 <br>
